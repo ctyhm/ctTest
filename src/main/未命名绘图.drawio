@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-20T05:35:55.933Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="2UOGry3KfAhfl_fQrHC2" version="24.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-20T07:00:29.666Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="yvGKnJ_aNauS9gvfVS1j" version="24.0.7" type="github">
   <diagram name="第 1 页" id="4GC9Re9vAwxGPbqN0lid">
     <mxGraphModel dx="2261" dy="803" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,13 +16,13 @@
         <mxCell id="TbxEhllLpYrLfIHG-JdV-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="TbxEhllLpYrLfIHG-JdV-2" target="TbxEhllLpYrLfIHG-JdV-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TbxEhllLpYrLfIHG-JdV-2" value="QA创建case，标记准入case" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="TbxEhllLpYrLfIHG-JdV-2" value="QA创建case" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-71" y="470" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TbxEhllLpYrLfIHG-JdV-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="TbxEhllLpYrLfIHG-JdV-3" target="Ncl1tENGZS2jCaxSyl5G-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TbxEhllLpYrLfIHG-JdV-3" value="QA绑定story卡片" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="TbxEhllLpYrLfIHG-JdV-3" value="QA绑定story卡片(&lt;font color=&quot;#ff0000&quot;&gt;for QA&lt;/font&gt;)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="104" y="470" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TbxEhllLpYrLfIHG-JdV-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="TbxEhllLpYrLfIHG-JdV-4" target="TbxEhllLpYrLfIHG-JdV-6" edge="1">
@@ -42,13 +42,13 @@
             <mxPoint x="610" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TbxEhllLpYrLfIHG-JdV-5" value="QA将case链接复制到story卡片上" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="TbxEhllLpYrLfIHG-JdV-5" value="QA将case链接复制到story卡片上(&lt;font color=&quot;#ff0000&quot;&gt;for QA&lt;/font&gt;)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="420" y="470" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TbxEhllLpYrLfIHG-JdV-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" parent="1" source="TbxEhllLpYrLfIHG-JdV-6" target="TbxEhllLpYrLfIHG-JdV-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TbxEhllLpYrLfIHG-JdV-6" value="RD进行准入case签章" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="TbxEhllLpYrLfIHG-JdV-6" value="RD进行准入case签章(&lt;font color=&quot;#ff0000&quot;&gt;for RD&lt;/font&gt;)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="420" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TbxEhllLpYrLfIHG-JdV-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="TbxEhllLpYrLfIHG-JdV-7" target="TbxEhllLpYrLfIHG-JdV-22" edge="1">
@@ -113,10 +113,10 @@
         <mxCell id="TbxEhllLpYrLfIHG-JdV-37" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="899" y="503" width="27" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="Ncl1tENGZS2jCaxSyl5G-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ncl1tENGZS2jCaxSyl5G-1" target="TbxEhllLpYrLfIHG-JdV-5">
+        <mxCell id="Ncl1tENGZS2jCaxSyl5G-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Ncl1tENGZS2jCaxSyl5G-1" target="TbxEhllLpYrLfIHG-JdV-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ncl1tENGZS2jCaxSyl5G-1" value="标记准入" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="Ncl1tENGZS2jCaxSyl5G-1" value="标记准入(&lt;font color=&quot;#ff0000&quot;&gt;for QA&lt;/font&gt;)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="262" y="470" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
